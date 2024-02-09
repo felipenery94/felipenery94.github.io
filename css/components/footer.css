@@ -1,0 +1,32 @@
+footer{
+    background-color: var(--light-tertiary-color);
+}
+
+footer .footer__content{
+    text-align: center;
+    padding: 6rem 2rem 1rem;
+    max-width: 47rem;
+}
+
+.footer__content .footer__contact span{
+    display: block;
+    font-weight: 500;
+}
+
+.footer__content ul li{
+    display: inline-block;
+}
+
+.footer__content ul a{
+    display: inline-block;
+    padding: 1rem;
+}
+
+.footer__copyright{
+   font-size: 1.4rem;
+}
+
+.whatsapp{
+   cursor: pointer;
+   border: 1px solid red;
+}
